@@ -148,10 +148,22 @@ h1 {
   width: 100%;
 }
     .header-back.one {
-        background: url('../img/guangzhou.jpg') 50% 0 no-repeat;
+        /* background: url('../img/guangzhou.jpg') 50% 0 no-repeat; */
+                background-image:url('../img/guangzhou.jpg');
+background-repeat:no-repeat;
+background-size:cover;
+-webkit-background-size: cover;
+-o-background-size: cover;
+background-position:center;
     }
     .header-back.two {
-        background: url('../img/suzhou.jpg') 50% 0 no-repeat;
+        /* background: url('../img/suzhou.jpg') 50% 0 no-repeat; */
+        background-image:url('../img/suzhou.jpg');
+background-repeat:no-repeat;
+background-size:cover;
+-webkit-background-size: cover;
+-o-background-size: cover;
+background-position:center;
     }
 /* CUSTOMIZE THE CAROUSEL
 -------------------------------------------------- */

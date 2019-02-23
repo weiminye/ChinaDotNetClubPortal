@@ -1045,3 +1045,5 @@ section.comments {
     visibility: hidden;
   }
 }
+
+a.community:link,a.community:active,a.community:visited,a.community:hover {color: white; text-decoration:none; cursor:pointer}

@@ -27,10 +27,10 @@ var cbpAnimatedHeader = (function() {
     function scrollPage() {
         var sy = scrollY();
         if ( sy >= changeHeaderOn ) {
-            classie.add( header, 'navbar-scroll' );
+            // classie.add( header, 'navbar-scroll' ); todo: 在调好照片底片色的时候再改回来
         }
         else {
-            classie.remove( header, 'navbar-scroll' );
+            // classie.remove( header, 'navbar-scroll' ); todo: 在调好照片底片色的时候再改回来
         }
         didScroll = false;
     }

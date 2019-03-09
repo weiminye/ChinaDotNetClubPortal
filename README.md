@@ -1,5 +1,5 @@
 # ChinaDotNetClubPortal
-中文.NET社区联盟官网
+中文.NET社区联盟官网http://dotnet-china.com/
 
 热烈欢迎广大
 1. .NET/.NET Core程序员
